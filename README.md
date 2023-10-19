@@ -2,8 +2,9 @@
 Solution for Impledge Fresher Problem
 
 Execution Steps:
-1.   Update the file path at line 13
-2.   Execute the script
+1.   Open the compound_word.py file in an editor
+2.   Update the file path at line 13
+3.   Execute the script
 
 Approach:
 Read the input file and store the words in a list and sort it according to the length, so the words which form the compound word can be addded to the WordSet (python set) beforehand.
